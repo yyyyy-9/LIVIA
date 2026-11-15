@@ -1,4 +1,4 @@
-# LIVIA：面向高通量微纳光子学仿真的波矢解耦张量架构
+# LIVIA
 
 **语言 / Language:** 中文 | [English](README_EN.md)
 
