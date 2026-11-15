@@ -1,0 +1,8 @@
+# Cross-platform CPU dependencies for FMMAX 1D/2D bridges & MLDG benchmark.
+# See requirements-lock-fmmax.txt for the exact pinned benchmark package set.
+numpy>=2.0,<3
+scipy>=1.15
+jax>=0.4.36
+jaxlib>=0.4.36
+fmmax==1.7.1
+psutil>=5.9

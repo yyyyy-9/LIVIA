@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# MATLAB
+*.asv
+*.mex*
+
+# Local runtime / large generated sweep datasets (keep small JSON summaries in fig2/outputs)
+.runtime/
+03_paper_reproduction/fig2_euv_multilayer/data/
+03_paper_reproduction/fig2_euv_multilayer/LOG.md
+03_paper_reproduction/fig2_euv_multilayer/outputs/generated/
+03_paper_reproduction/fig2_euv_multilayer/outputs/Figure_Mechanism.pdf
+03_paper_reproduction/fig3_mldg_kspace_diag/outputs/
+03_paper_reproduction/fig4_mldg_tolerance/cpu_validation/
+03_paper_reproduction/fig4_mldg_tolerance/outputs/
+03_paper_reproduction/fig4_mldg_tolerance/runs/
+03_paper_reproduction/fig5_fwbic_3d_sweep/outputs/
+03_paper_reproduction/fig5_fwbic_3d_sweep/runs/
+03_paper_reproduction/**/*.mat
+!03_paper_reproduction/*/reference/*.mat

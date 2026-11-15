@@ -1,0 +1,7 @@
+# Pinned reference environment for PyTorch Tensor SMM & EUV reproduction.
+# For NVIDIA GPUs (CUDA 12.8), install the CUDA PyTorch wheel first:
+#   pip install torch==2.7.1 --index-url https://download.pytorch.org/whl/cu128
+#   pip install -r requirements-lock-torch.txt
+numpy==2.4.6
+scipy==1.17.1
+torch==2.7.1

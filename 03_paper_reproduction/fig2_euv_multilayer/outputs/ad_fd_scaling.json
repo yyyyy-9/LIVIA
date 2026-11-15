@@ -1,0 +1,32 @@
+[
+  {
+    "N": 5,
+    "AD_time_s": 0.2697,
+    "FD_time_s": 1.9424,
+    "speedup": 7.2
+  },
+  {
+    "N": 10,
+    "AD_time_s": 0.283,
+    "FD_time_s": 3.8075,
+    "speedup": 13.45
+  },
+  {
+    "N": 20,
+    "AD_time_s": 0.2775,
+    "FD_time_s": 7.3592,
+    "speedup": 26.52
+  },
+  {
+    "N": 40,
+    "AD_time_s": 0.2734,
+    "FD_time_s": 15.6509,
+    "speedup": 57.24
+  },
+  {
+    "N": 80,
+    "AD_time_s": 0.2911,
+    "FD_time_s": 34.3692,
+    "speedup": 118.06
+  }
+]

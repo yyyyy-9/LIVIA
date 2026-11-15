@@ -1,0 +1,48 @@
+cff-version: 1.2.0
+message: "If you use LIVIA in your research, please cite the accompanying article."
+title: "LIVIA: Wavevector-Decoupled Tensor Architecture for High-Throughput Nanophotonic Simulations"
+type: software
+license: MIT
+authors:
+  - family-names: Yang
+    given-names: Yi
+  - family-names: Kong
+    given-names: Weijie
+  - family-names: Qiu
+    given-names: Liwen
+  - family-names: Wang
+    given-names: Tao
+  - family-names: Wang
+    given-names: Yanqin
+  - family-names: Wang
+    given-names: Changtao
+  - family-names: Pu
+    given-names: Mingbo
+  - family-names: Luo
+    given-names: Xiangang
+preferred-citation:
+  type: article
+  title: "Wavevector-Decoupled Tensor Architecture for High-Throughput Nanophotonic Simulations"
+  publisher:
+    name: "Optica Publishing Group"
+  doi: "10.1364/opticaopen.32024484.v1"
+  url: "https://doi.org/10.1364/opticaopen.32024484.v1"
+  year: 2026
+  month: 4
+  authors:
+    - family-names: Yang
+      given-names: Yi
+    - family-names: Kong
+      given-names: Weijie
+    - family-names: Qiu
+      given-names: Liwen
+    - family-names: Wang
+      given-names: Tao
+    - family-names: Wang
+      given-names: Yanqin
+    - family-names: Wang
+      given-names: Changtao
+    - family-names: Pu
+      given-names: Mingbo
+    - family-names: Luo
+      given-names: Xiangang

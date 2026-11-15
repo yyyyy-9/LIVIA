@@ -1,0 +1,9 @@
+# Cross-platform dependencies for PyTorch Differentiable Tensor SMM & EUV reproduction.
+# SciPy >=1.15 ensures full metadata and ABI compatibility with NumPy 2.x.
+#
+# For CUDA 12.8 GPU acceleration (matching the paper workstation), install PyTorch first:
+#   pip install torch==2.7.1 --index-url https://download.pytorch.org/whl/cu128
+# See requirements-lock-torch.txt for pinned verified package versions.
+numpy>=1.26,<3
+scipy>=1.15
+torch>=2.5
